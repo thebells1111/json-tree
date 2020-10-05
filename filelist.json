@@ -1,0 +1,794 @@
+[
+  {
+    "name": "meta.json",
+    "webkitRelativePath": "projects/04-calculator/meta.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/08-styling-d/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/08-styling-d/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/08-styling-d/app-b/Display.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/08-styling-d/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/08-styling-d/app-a/Display.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/07-styling-c/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/07-styling-c/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/07-styling-c/app-b/Display.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/07-styling-c/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/07-styling-c/app-a/Display.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/06-styling-b/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/06-styling-b/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/06-styling-b/app-b/Display.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/06-styling-b/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/06-styling-b/app-a/Display.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/05-styling-a/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/05-styling-a/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/05-styling-a/app-b/Display.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/05-styling-a/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/05-styling-a/app-a/Display.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/04-story-check-a/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/04-story-check-a/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/04-story-check-a/app-a/Display.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/03-display/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/03-display/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/03-display/app-b/Display.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/03-display/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/02-setup/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/02-setup/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/02-setup/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/04-calculator/01-intro/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/04-calculator/01-intro/app-a/App.svelte"
+  },
+  {
+    "name": "Calculator.svelte",
+    "webkitRelativePath": "projects/04-calculator/01-intro/app-a/Calculator.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/04-calculator/01-intro/app-a/Display.svelte"
+  },
+  {
+    "name": "meta.json",
+    "webkitRelativePath": "projects/03-drumkit/meta.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/app-b/Display.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/app-b/Drumpad.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/app-a/Display.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/09-styling/app-a/Drumpad.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/08-display/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/08-display/app-b/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/03-drumkit/08-display/app-b/Display.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/08-display/app-b/Drumpad.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/08-display/app-a/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/08-display/app-a/Drumpad.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/07-trigger-key/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/07-trigger-key/app-b/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/07-trigger-key/app-b/Drumpad.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/07-trigger-key/app-a/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/07-trigger-key/app-a/Drumpad.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/06-drumpad-foreach/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/06-drumpad-foreach/app-b/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/06-drumpad-foreach/app-b/Drumpad.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/06-drumpad-foreach/app-a/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/06-drumpad-foreach/app-a/Drumpad.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/05-drumpad-object/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/05-drumpad-object/app-b/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/05-drumpad-object/app-b/Drumpad.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/05-drumpad-object/app-a/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/05-drumpad-object/app-a/Drumpad.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/04-sound-comp-c/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/04-sound-comp-c/app-b/App.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/04-sound-comp-c/app-b/Drumpad.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/04-sound-comp-c/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/03-sound-comp-b/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/03-sound-comp-b/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/03-sound-comp-b/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/02-sound-comp-a/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/02-sound-comp-a/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/02-sound-comp-a/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/03-drumkit/01-intro/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/03-drumkit/01-intro/app-a/App.svelte"
+  },
+  {
+    "name": "Display.svelte",
+    "webkitRelativePath": "projects/03-drumkit/01-intro/app-a/Display.svelte"
+  },
+  {
+    "name": "Drumpad.svelte",
+    "webkitRelativePath": "projects/03-drumkit/01-intro/app-a/Drumpad.svelte"
+  },
+  {
+    "name": "meta.json",
+    "webkitRelativePath": "projects/02-markdown_previewer/meta.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/07-split-screen-directions/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/07-split-screen-directions/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/07-split-screen-directions/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/06-split-screen/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/06-split-screen/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/06-split-screen/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/05-fcc-refactor/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/05-fcc-refactor/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/05-fcc-refactor/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/04-fcc-test/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/04-fcc-test/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/04-fcc-test/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/03-inital-markup/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/03-inital-markup/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/03-inital-markup/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/02-initial-script/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/02-initial-script/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/02-initial-script/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/02-markdown_previewer/01-intro/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/02-markdown_previewer/01-intro/app-a/App.svelte"
+  },
+  {
+    "name": "meta.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/meta.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/14-randomize-quotes/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/13-control-buttons/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/12-valediction/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/11-salutation/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/10-right-panel-stamp/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/09-right-panel-components/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/08-style-left-panel/app-a/RightPanel.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/app-b/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/app-b/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/app-b/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/app-b/RightPanel.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/app-a/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/07-split-panels/app-a/quotes.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/06-center-element/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/06-center-element/app-b/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/06-center-element/app-b/quotes.json"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/06-center-element/app-a/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/06-center-element/app-a/quotes.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/05-tweet-a-quote/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/05-tweet-a-quote/app-b/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/05-tweet-a-quote/app-b/quotes.json"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/05-tweet-a-quote/app-a/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/05-tweet-a-quote/app-a/quotes.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/04-next-quote/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/04-next-quote/app-b/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/04-next-quote/app-b/quotes.json"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/04-next-quote/app-a/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/04-next-quote/app-a/quotes.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/03-import-quotes/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/03-import-quotes/app-b/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/03-import-quotes/app-b/quotes.json"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/03-import-quotes/app-a/App.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/03-import-quotes/app-a/quotes.json"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/02-markup/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/02-markup/app-b/App.svelte"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/02-markup/app-a/App.svelte"
+  },
+  {
+    "name": "text.md",
+    "webkitRelativePath": "projects/01-random_quote_machine/01-intro/text.md"
+  },
+  {
+    "name": "App.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/01-intro/app-a/App.svelte"
+  },
+  {
+    "name": "LeftPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/01-intro/app-a/LeftPanel.svelte"
+  },
+  {
+    "name": "quotes.json",
+    "webkitRelativePath": "projects/01-random_quote_machine/01-intro/app-a/quotes.json"
+  },
+  {
+    "name": "RightPanel.svelte",
+    "webkitRelativePath": "projects/01-random_quote_machine/01-intro/app-a/RightPanel.svelte"
+  }
+]
