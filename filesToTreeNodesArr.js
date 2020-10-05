@@ -11,7 +11,9 @@ function filesToTreeNodes(arr) {
         type: "directory",
       };
       if (i == splitpath.length - 1) {
-        node.type = false;
+        let splitName = splitpath[i].split(".");
+        node.type = splitName.pop();
+        node.name = splitName.join(".");
       }
       ptr[splitpath[i]] = ptr[splitpath[i]] || node;
       ptr[splitpath[i]].children = ptr[splitpath[i]].children || {};
@@ -19,13 +21,37 @@ function filesToTreeNodes(arr) {
     }
   }
   function objectToArr(node) {
-    Object.keys(node || {}).map((k) => {
-      if (node[k].children) {
-        objectToArr(node[k]);
-      }
-    });
+    Object.keys(node || {})
+      .map((k) => {
+        if (node[k].children) {
+          objectToArr(node[k]);
+        }
+      })
+      .sort((a, b) => {
+        let aa = a.name.toLowerCase(),
+          bb = b.name.toLowerCase();
+
+        if (aa < bb) {
+          return -1;
+        }
+        if (aa > bb) {
+          return 1;
+        }
+        return 0;
+      });
     if (node.children) {
-      node.children = Object.values(node.children);
+      node.children = Object.values(node.children).sort((a, b) => {
+        let aa = a.name.toLowerCase(),
+          bb = b.name.toLowerCase();
+
+        if (aa < bb) {
+          return -1;
+        }
+        if (aa > bb) {
+          return 1;
+        }
+        return 0;
+      });
       node.children.forEach(objectToArr);
     }
   }
