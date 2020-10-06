@@ -61,4 +61,4 @@ function filesToTreeNodes(arr) {
 }
 
 let tree = filesToTreeNodes(arr);
-console.log(require("util").inspect(tree, { depth: null }));
+//console.log(require("util").inspect(tree, { depth: null }));

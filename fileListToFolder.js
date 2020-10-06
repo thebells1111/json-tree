@@ -1,6 +1,6 @@
 let fileList = require("./fileList.json");
 
-async function fileListToFolder(fileList) {
+function fileListToFolder(fileList) {
   let folder = {};
 
   folder.projectNames = new Set();
@@ -27,17 +27,12 @@ async function fileListToFolder(fileList) {
           folders: [],
         };
 
-        let splitName = directories.join("/").split(".");
-        let type = splitName.pop();
-        let name = splitName.join(".");
+        let x = filesToTreeNodes([
+          { webkitRelativePath: directories.join("/") },
+        ]);
+        //console.log(x);
 
-        let component = {};
-        component.name = name;
-        component.type = type;
-        component.source = "source"; //change to async file reader
-
-        folder[project][chapter][app].folders.push(component);
-        folder = await handleFileUpload(directories.join("/"));
+        folder[project][chapter][app].folders = x;
       } else {
         folder[project][chapter].text = app; //change this to actual text.md
       }
@@ -51,48 +46,21 @@ async function fileListToFolder(fileList) {
   return folder;
 }
 
-async function handleFileUpload(arr) {
-  let newFiles = [];
-  for (const file of arr) {
-    let f = {};
-    f.webkitRelativePath = file.webkitRelativePath;
-    f.name = file.name;
-    //f.source = await readFileAsync(file);
-    newFiles.push(f);
-  }
-  files = filesToTreeNodes(newFiles);
-  console.log(files);
-}
-
-function readFileAsync(file) {
-  return new Promise((resolve, reject) => {
-    let reader = new FileReader();
-
-    reader.onload = () => {
-      resolve(reader.result);
-    };
-
-    reader.onerror = reject;
-
-    reader.readAsText(file);
-  });
-}
-
 function filesToTreeNodes(arr) {
   var tree = {};
-  async function addnode(obj) {
-    var splitpath = obj.webkitRelativePath.split("/");
+  function addnode(obj) {
+    var splitpath = obj.webkitRelativePath.replace(/^\/|\/$/g, "").split("/");
     var ptr = tree;
     for (let i = 0; i < splitpath.length; i++) {
       let node = {
         name: splitpath[i],
         type: "directory",
+        path: obj.webkitRelativePath.split(".").slice(0, -1).join("."),
       };
       if (i == splitpath.length - 1) {
         let splitName = splitpath[i].split(".");
         node.type = splitName.pop();
         node.name = splitName.join(".");
-        node.source = obj.source;
       }
       ptr[splitpath[i]] = ptr[splitpath[i]] || node;
       ptr[splitpath[i]].children = ptr[splitpath[i]].children || {};
@@ -138,5 +106,6 @@ function filesToTreeNodes(arr) {
   objectToArr(tree);
   return Object.values(tree);
 }
+
 let list = fileListToFolder(fileList);
 console.log(JSON.stringify(list, null, 2));
